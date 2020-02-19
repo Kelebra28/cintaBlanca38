@@ -1,0 +1,24 @@
+* {
+    background-color: #6c76ce;
+}
+h1 {
+    color: white;
+    font-family: 'Lacquer', sans-serif;
+    text-align: center;
+}
+
+p {
+    color: #14a72d;
+    font-size: 100px;
+}
+
+img {
+    border-radius: 8px;
+    width: 100px;
+    height: 100px;
+}
+
+.imagenGrande {
+    width: 345px;
+    height: 300px;
+}
