@@ -1,0 +1,42 @@
+/* Selector etiequeta HTML */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: white;
+}
+
+/* Clase */
+.caja {
+    border: 3px solid blue;
+    height: 800px;
+    /* Flexbox */
+    display: flex;
+    flex-direction: column;
+    /* x -> Horizontal */
+    justify-content: center;
+    /* y -> Vertical */
+    align-items: flex-start;
+}
+
+.cajita {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* id */
+#uno {
+    background: red;
+}
+
+#dos {
+    background: blue;
+}
+
+#tres {
+    background: green;
+}
