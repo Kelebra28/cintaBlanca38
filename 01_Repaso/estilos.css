@@ -1,0 +1,20 @@
+* {
+    background-color: aquamarine;
+}
+
+img {
+    width: 200px;
+    border-radius: 8px;
+}
+
+h1 {
+    color: white;
+    font-size: 100px;
+}
+p {
+    color: violet;
+}
+
+.texto {
+    color: tomato;
+}
