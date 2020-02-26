@@ -1,0 +1,63 @@
+/* clases */
+.bandera {
+    height: 800px;
+    width: 1100px;
+    background: #002868;
+}
+
+.superior {
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.inferior {
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.cuadrado {
+    height: 350px;
+    width: 350px;
+    background: white;
+}
+
+.rectangulo {
+    height: 350px;
+    width: 665px;
+    background: white;
+}
+
+.cuadradito {
+    height: 300px;
+    width: 300px;
+    background: #EF2B2D;
+}
+
+.rectangulito {
+    height: 300px;
+    width: 610px;
+    background: #EF2B2D;
+}
+
+#uno {
+
+}
+
+#dos {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#tres {
+    display: flex;
+    align-items: flex-end;
+}
+
+#cuatro {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
